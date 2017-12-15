@@ -5,3 +5,10 @@ C:\Users\SUNNY\Documents\GitHub\NinetyNine\NinetyNine\obj\Debug\NinetyNine.cspro
 C:\Users\SUNNY\Documents\GitHub\NinetyNine\NinetyNine\obj\Debug\NinetyNine.csproj.CoreCompileInputs.cache
 C:\Users\SUNNY\Documents\GitHub\NinetyNine\NinetyNine\obj\Debug\NinetyNine.exe
 C:\Users\SUNNY\Documents\GitHub\NinetyNine\NinetyNine\obj\Debug\NinetyNine.pdb
+C:\Users\eahscs\Documents\GitHub\NinetyNine\bin\Debug\data.txt
+C:\Users\eahscs\Documents\GitHub\NinetyNine\bin\Debug\NinetyNine.exe.config
+C:\Users\eahscs\Documents\GitHub\NinetyNine\bin\Debug\NinetyNine.exe
+C:\Users\eahscs\Documents\GitHub\NinetyNine\bin\Debug\NinetyNine.pdb
+C:\Users\eahscs\Documents\GitHub\NinetyNine\obj\Debug\NinetyNine.csprojResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\GitHub\NinetyNine\obj\Debug\NinetyNine.exe
+C:\Users\eahscs\Documents\GitHub\NinetyNine\obj\Debug\NinetyNine.pdb

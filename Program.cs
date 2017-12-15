@@ -30,7 +30,7 @@ namespace NinetyNine
 
         static void Main(string[] args)
         {
-            string[] lines = File.ReadAllLines(@"C:\Users\SUNNY\Documents\Github\NinetyNine\input.txt");
+            string[] lines = File.ReadAllLines(@"data.txt");
             lines = FormatText(lines);
 
             string[] hands = lines[0].Split(',');
